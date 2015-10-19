@@ -1,0 +1,60 @@
+Cours 6: Impacts des nouvelles techonologies dans la vie quotidienne
+-Internet
+	-Impacts
+		-Vie familiale
+			-Moins ou plus de temps de communcation
+			-Renforcement des liens familiaux(facilité de contact)
+			-Maintient des liens les ceux éloignés
+			-Facilite les nouvelles interactions
+			-Facilite une meilleure gestion du budget familiale
+			-Émergence d'intérèt communcation
+		-Vie sociale
+			-Émergence de nouvelle communauté
+			-Émergence de nouveaux types de relations
+			-Notions de vie privée deviennent floues
+			-Émergence de nouveaux comportement des mises en représentation de soi-même
+			-Augmentation des situations à risque(Vol d'identité)
+		-Éducation
+			-Plus grand accès à des bases de données
+			-Production et diffusion des connaissances plus rapide
+			-Accès aux bibliothèques locales et internationnales
+			-Offre de formation abondante
+			-Accès élargie aux cours de certaines institutions
+			-Croissance du plagiat
+			-Perte de fiabilité
+			-Émergence d'une offre et d'un marché de réalisation des travaux scholaire
+	-Données, Information, Savoir
+		-Données devient information lorsque mise en contexte
+		-Information devient savoir lorsqu'interprété à travers un modèle
+		-4 Enjeux
+			-Confusion actuelle entre données, information, savoir
+			-Différence entre la médiation techniques et humaines
+			-Éducation devient un bien comme un autre, sensible à l'offre et la demande
+			-Émergence d'un savoir flou par rapport au savoir précis
+	-Monétique et internet
+		-Monnaie + informatique
+		-Banque
+			-Utilisation plus optimale des ressources
+			-Augmentation des revenus et de profits
+			-Capacité d'ajustement sont plus importantes
+			-Changement dans le profil des postes
+			-Changement dans les horaires de service
+		-Client
+			-Accès aux comptes 24 heures sur 24
+			-Devenons co-producteur du service
+			-Crédit plus facile
+	-Domotique
+		-Maison(Domus) + informatique
+		-2 périodes
+			-Pré 1980
+			-Post 1980
+		-Pré 1980
+			-Constat d'échec
+			-Pas d'appropriation de la technologie
+			-Barrière technique et culturelle
+			-Propriétaire née dans les années 20-30-40
+		-Post 1980
+			-Introduction de nouvelles technologies de communication
+			-Offre intégrée
+			-Stratégie basée sur le comfort et la sécurité
+			-Propriétaire plus familier avec la technologie.
