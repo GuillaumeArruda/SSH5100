@@ -1,0 +1,82 @@
+Cours 3: Modèle de développement social de la technologie
+	-Production sociale de la technologie
+		-Technologie est un construit
+		-Modèle à 3 phases
+			-Production sociale
+			-Diffusion sociale
+			-Appropriation sociale (voir Performance sociale)
+			-Ne sont pas obligatoirement linéaire
+		-Production Sociale
+			-Modèle internaliste
+				-4 Postulats
+					-La technique(science) n'est pas assujettie à l'industrie
+					-L'État est le seul acteur à financer la recherche scientifique
+					-Les scientifiques sont les seuls à s'interesser au développement des sciences
+					-Ils n'ont pas d'obligation de résultat
+				-Créé pendant la période industrielle
+				-Résultat créé par
+					-Recherche de notoriété
+					-Concurrence entre les scientifiques
+			-Modèle externaliste
+				-4 Postulats
+					-La technique est assujettie à l'industrie
+					-L'État finance en partie la recherche scientifique
+					-Les scientifiques ne sont plus les seuls à s'interesser
+					-Il y a obligation de résultat
+				-Créé pendant la période post-industrielle
+				-Résultat créé par
+					-Existence d'un réseau d'actuer
+					-Dans ce réseau, les différents acteurs défendent des perspectives différentes
+					-Divergence d'intérèt
+					-Résultat est le consensus des acteurs
+		-Diffusion sociale
+			-Permet de la solution créé dans la production sociale
+			-3 modèles
+				-Conventionnel de diffusion
+				-De l'innovation
+				-De périodisation
+			-Modèle conventionnel de diffusion
+				-Issu du marketing
+				-Traduction du besoins du client/consommateur
+				-Cycle de vie d'un produit ou technologie
+					-5 Phases
+						-Lancement
+						-Croissance et développement
+						-Plateau(maturité)
+						-Déclin
+						-Fin
+					-Chaque phase a un type de client
+						-Innovateurs
+						-Majorité précoce
+						-Majorité
+						-Retardataire
+						-Collectionneur
+				-Succès de la diffusion lorsque chaque phase atteint le groupe d'utilisateur ciblé
+				
+			-Modèle de l'innovation
+				-Présente une condition de succès
+					-Correspondance entre la logique de l'utilisateur et du concepteur
+					-Le produit répond au besoin pour lequel il a été créé
+			-Modèle de périodisation (Lacroix,Pronovost, Tremblay) -> C.I.R.S.T
+				-On se place du coté des producteurs
+				-Base du modèle
+					-Diffusion est un processus correspondant à des périodes
+					-Chaque période nécessite un acteur avec une expertise précise
+				-5 Étapes
+					-L'État enclenche le processus. Apport de financement
+					-Groupe possédant l'expertise et le savoir se lance en recherche de la solution technique
+					-Implication des spécialistes des tests
+					-Implication des spécialistes pour la certification
+					-Implication des gens qui assurent la promotion et la vente.	
+		-Appropriation Sociale
+			-Produit s'intégre dans la vie quotidienne
+			-Représentation d'appropriation
+				-Conformité de ce qui est préscrit
+				-Adaptation du produit à ces besoins
+				-Produit/Technologie est un prétexte pour générer de nouvelles habitudes, interactions
+			-Conditions d'appropriation
+				-Existence d'une infrastructure d'accueil
+				-Ressources formées pour la maintenance et le support aux acheteurs
+				-Est un processus(Change dans le temps)
+				-Locale
+			

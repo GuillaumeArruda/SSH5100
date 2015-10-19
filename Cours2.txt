@@ -1,0 +1,72 @@
+Cours 2: Notions de base relatifs aux notions de technique, de système technique et de technologie
+-Revue de littérature scientifique
+	-Aggrégation d'articles sur le sujet choisi.
+	-Utilisation de la méthode scientifique
+	-Prendre des sources réputées
+	-Article non scientifique peut-être intéressant
+	-Utilité
+		-Amélioration de la compréhension du sujet
+		-Modèle a utilisé
+-Hypothèse
+	-Contient
+		-L'échantillon
+		-La technologie(sujet)
+		-Impact prévue
+	-Exemple
+		-Les jeunes professionnels qui utilisent un bixi de façon régulière améliore leur qualité de vie
+-Catégories
+	-Identifier les bénéfices ou contraintes émergeant de l'utilisation
+	-Concentrer sur les impacts
+	-Créer des sous-hypothèses
+	-Exemple
+		-Santé
+		-Économie
+-Analyse interne
+	-Intra
+		-Analyse de la position d'un participant par rapport à l'hypothèse
+	-Inter
+		-Compare les différents participants
+		-Permet d'infirmer ou confirmer les hypothèses
+-Analyse externe
+	-Comparaison aux articles scientifiques
+
+-Société et technologie
+	-3 Périodes
+		-Pré-Industrielle
+		-Industrielle
+		-Post-Industrielle
+	-Pré-Industrielle
+		-Monde de l'artisan
+		-Production
+			-Lente
+			-Unitaire
+			-Manuelle
+			-Sur-mesure
+			-Locale
+		-Savoir faire
+		-Technique
+		-Transmission maitre à apprentie
+	-Industrielle
+		-Production de masse
+		-Mécanisation de la production
+		-Organisation scientifique du travail
+		-Système technique
+		-Standardisation
+		-Économie d'échelle
+		-Faible qualité
+		-Économie de biens
+	-Post-Industrielle
+		-Transforme l'information
+		-Économie de services
+		-Servuction(Service + production)
+		-Dimension imatérielle
+		-Éclatement des logiques d'offres de services
+		-Unité de temps et de lieu n'est plus nécessaire
+		
+-Technologie et performance
+	-Technologie fait partie de la société
+	-Elle génére des bénéfices
+	-Ensemble des composantes techniques
+	-Faits techniques et socials
+	-Faits socials = Usage différencié (Appropriation de la technologie)
+		-Donne sens au fait technique
