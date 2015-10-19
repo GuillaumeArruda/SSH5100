@@ -1,0 +1,78 @@
+Cours 4: Impact des grands projets
+-Notions d'impact
+	-Différence entre l'introduction de la technologie au présent
+	-Biais inhérent aux autres facteurs non-considérés
+	-Méthodologie d'évaluation des impacts
+		-Identifier la technologie et son contexte
+		-Identifier les usagers à questionner
+		-Identifier les catégories affectés par la technologie
+		-Identifier la nature, l'amplitude de la technologie
+-Grand projets
+	-Envergure
+		-Couts
+		-Impact
+		-Durée
+		-Complexité
+	-Impact
+		-Économique
+		-Urbanisme
+		-Socio-Politique
+		-Juridique
+		-Éducatif
+	-Exemple
+		-Barrage Hydro-Québec
+			-Économique
+				-Création d'emplois
+				-Endettement d'Hydro-Québec pour financer
+				-Augmentation des actifs d'Hydro-Québec
+			-Urbanisme
+				-Croissance des municipalités proche des barrages
+				-Croissance des activités dans la région
+				-Construction de nouvelles infrastructures
+				-Augmentation des revenus foncier
+				-Augmentation de la dette pour la construction des nouvelles infrastructures
+			-Socio-Politique
+				-Émergence de groupe de pression(pour ou contre)
+				-Communication publique à l'encontre d'Hydro-Québec
+			-Juridique
+				-Mise en place et élaboration de nouvelles lois/réglémentation
+				-Croissance des poursuites en justice(Ex: Autochtone)
+			-Éducatif
+				-Augmentation du nombre d'étudiants dnas les filières reliées au ce type d'ouvrage
+				-Augmentation des subventions pour les chercheurs qui travaillent à l'optimisation des protocoles de gestion des barrages
+-Modèle d'évaluation sociale des technologies (E.S.T)
+	-Définition
+		-Modèle d'aide à la décision
+		-Analyse les impacts possibles
+		-Arrive a insérer harmonieusement la technologie dans le corps social
+		-Minimiser les impacts négatifs
+	-Opérationalisation
+		-Sur la base d'un questionnement
+			-Est-ce que c'est techniquement possible?
+			-Est-ce que la technologie est économiquement réalisable?
+			-Est-ce que la technologie est socialement acceptable?
+			-Est-ce que la technologie est moralement désirable?
+		-Exemple
+			-Clonage
+				-Techniquement possible
+				-Économiquement réalisable -> Marché existe
+				-Socialement non acceptable
+				-Moralement questionnable
+		-Nous force à regarder la technologie sous plusieurs angles
+	-Organisations ayant recours au modèle
+		-BAPE
+		-CSTQ (Conseil de la science et technologique du Québec)
+		-Agence canadienne d'évaluation environnemental
+		-Office canadien d'évaluation des technologies de la santé
+	-Avantages
+		-Suscite le débat
+		-Encourage la participation du publique
+		-Plus grande transparence
+		-Les différents groupes sociaux vont faire valoir des aspects cachés ou ignorés
+	-Inconvénients
+		-Prend du temps
+		-Oblige de livrer toutes les informations relatives aux projets
+			-Fragilise la possition des promoteurs
+		-Manipulation ou sabotage du projets
+	
+				
